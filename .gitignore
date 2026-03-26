@@ -1,0 +1,28 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Node.js (если используешь JS/TS)
+node_modules/
+dist/
+
+# Python (если используешь Python)
+__pycache__/
+*.pyc
+
+# C#/DotNet (если используешь .NET)
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# Кэш
+*.cache
