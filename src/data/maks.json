@@ -1,0 +1,13 @@
+[
+  {
+    "name":"maks",
+    "stack":
+    [
+      "python","js","networking","fullstack"
+    ],
+    "projects":
+    [
+      "Pravitel","game"
+    ]
+  }
+]
